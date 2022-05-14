@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReadWriteFile</string>
+    <string name="enter_description_of_file">Enter description of file</string>
+
+</resources>
